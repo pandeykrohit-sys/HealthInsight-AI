@@ -13,6 +13,8 @@
 
 # 🩺 HealthInsight AI
 
+### Privacy-First Medical Report Analyzer powered by Generative AI
+
 An AI-powered healthcare application that converts complex medical reports into easy-to-understand insights using OCR, Generative AI, and conversational AI.
 
 Designed with a **Privacy First** approach, HealthInsight AI helps users understand medical reports without replacing professional medical advice.
