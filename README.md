@@ -103,15 +103,21 @@ Current MVP is designed with user trust in mind:
 
 ### Upload Screen
 
-(Add screenshot)
+<img width="1025" height="1072" alt="Dashboard-ScreenShot" src="https://github.com/user-attachments/assets/b49fb82d-20fe-44e4-81d2-d531c4049ca8" />
+
 
 ### Report Analysis Dashboard
 
-(Add screenshot)
+<img width="1542" height="1188" alt="upload-screen" src="https://github.com/user-attachments/assets/139cd5a9-2a0d-4699-8304-301f3d9c49cd" />
+<img width="987" height="963" alt="analysis-dashboard-3" src="https://github.com/user-attachments/assets/9f328f46-f6c4-4c0b-ad74-73d8dbacc949" />
+<img width="1213" height="945" alt="analysis-dashboard-2" src="https://github.com/user-attachments/assets/fb02a337-7675-4cbc-8ebb-e58fce3ef8e8" />
+<img width="1038" height="975" alt="analysis-dashboard-1" src="https://github.com/user-attachments/assets/829af788-19c7-44d5-9248-e1121469f4c0" />
+
 
 ### AI Chat Assistant
 
-(Add screenshot)
+<img width="1493" height="897" alt="ai-chat" src="https://github.com/user-attachments/assets/faa577a7-2319-4297-9aa3-4a24c90d6e4f" />
+
 
 ---
 
