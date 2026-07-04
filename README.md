@@ -411,7 +411,7 @@ Users should always consult qualified healthcare professionals for medical advic
 
 **Rohit Pandey**
 
-Business Operations Analyst • AI Product Builder • Business Analyst
+Business Operations Analyst | AI Product Builder | Data & Business Analyst
 
 LinkedIn:
 https://linkedin.com/in/rohitpandey-insigh/
