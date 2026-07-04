@@ -26,6 +26,10 @@ Designed with a **Privacy First** approach, HealthInsight AI helps users underst
 🔗 https://healthinsightai.lovable.app
 
 ---
+💻 GitHub Repository
+https://github.com/pandeykrohit-sys/HealthInsight-AI
+
+---
 
 # 📌 Why I Built This
 
